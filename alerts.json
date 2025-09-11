@@ -1,3 +1,17 @@
 [
-  
+  {
+  "id": "every-friday-5-dollar-dot-com",
+  "type": "periodicalAlert",
+  "title": "$5 .com on Fridays",
+  "shortMessage": "Every Friday .com domain at $5",
+  "fullMessage": "Every Friday .com domain at $5. No code needed. Up to 100 domains.",
+  "periodicity": "weekly",
+  "dayOfWeek": 5,
+  "dayOfMonth": null,
+  "weekOfMonth": null,
+  "month": null,
+  "eventTime": "14:30",
+  "notificationDaysBefore": 4,
+  "timezone": "America/New_York"
+}
 ]
