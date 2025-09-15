@@ -1,18 +1,43 @@
 [
-  {
-    "id": "company_2025-09-09",
-    "type": "company",
-    "date": "2025-09-09T19:00:00.000Z",
-    "title": "Meet .robot — The TLD for Builders, Dreamers, and Bots",
-    "shortMessage": "The .robot pre-sale is live now, with minting beginning on 0G blockchain in Q1 2026.",
-    "fullMessage": "Robots are everywhere: from drones and NPCs to automated workflows and AI agents. They live in hardware, in code, and in culture. It's a world that deserves its own identity. Enter .robot, our latest Web3-only TLD.\\n\\nBuilt with 0G Foundation, .robot is the naming layer for the robotics spectrum — from cobots and automation to humanoids and gaming bots. The future is accelerating fast: cobots growing 32% YoY by 2030, AI making robots smarter by 2025, and experts predicting humanoids will soon reshape logistics and manufacturing.\\n\\n.robot works for:\\n\\n🤖 Robotics startups & labs\\n🛠️ AI agents & tools\\n🎮 Gaming characters & bots\\n📦 Automation platforms\\n👾 Fun, personal projects\\n\\nThe best .robot names won't last. Secure high-potential domains before they're gone:\\n\\n    helper.robot\\n    dev.robot\\n    gamer.robot\\n    ai.robot\\n    delivery.robot\\n\\nThe .robot pre-sale is live now, with minting beginning on 0G blockchain in Q1 2026."
-  },
-  {
-    "id": "company_2024-09-08",
-    "type": "company",
-    "date": "2024-09-08T16:00:00.000Z",
-    "title": "Coming Soon — Voices of Power",
-    "shortMessage": "The conversations that shape society are happening online, in real time, and increasingly onchain",
-    "fullMessage": "Policy debates, finance reforms, civic movements. The conversations that shape society don't just happen in hearing rooms anymore. They're happening online, in real time, and increasingly onchain.\n\nThat's why we're launching The Civic Collection, a limited drop of premium domains releasing September 15th at 9 AM ET. This drop launches alongside The Future of Money, Governance, and the Law, the Government Blockchain Association's flagship Capitol Hill event with Edge Of as sponsor. It captures the language of money, governance, and law in Web3.\n\nA few names you'll see:\n\n    vote.collect\n    law.hub\n    city.austin\n    data.wifi\n    news.podcast\n\nDrop Details\n\n    Begins: September 15th, 9 AM ET\n    Ends: September 22nd, 9 AM ET, or when all domains are sold.\n    Availability: First-come, first-served\n\nThe next chapter of governance is being written. Secure your place in the conversation."
-  }
-]
+    {
+      "id": "company_2025-09-12",
+      "type": "company",
+      "date": "2025-09-12T19:00:00.000Z",
+      "title": "Domain vs Subdomain: Key Differences and When to Use Each",
+      "shortMessage": "This guide breaks down everything you need to know about domains versus subdomains",
+      "fullMessage": "Building a website? You'll face one crucial decision right from the start: domain or subdomain. This choice determines how people find you, remember you, and navigate your content. Whether you're launching something new or rethinking your current setup, getting this right matters for your online success.\n\nYour domain name acts as your primary web address—your digital home base that represents everything you do online. Subdomains work differently. They create separate sections under your main domain, organizing content into distinct areas that serve specific purposes. Think of it this way: if your main site is \"yourbusiness.com,\" then \"blog.yourbusiness.com\" becomes a dedicated space that's connected but separate.\n\nWhat makes subdomains so useful? They help you structure content more clearly, target specific audiences with specialized content, and create focused keyword strategies for different parts of your site. Here's the key difference: owning your domain gives you complete control over your website, email, and brand identity. Relying only on subdomains means you're essentially renting space under someone else's domain.\n\nThis guide breaks down everything you need to know about domains versus subdomains—when to use each option, how they differ, and how to set them up properly. You'll learn to make smart decisions about your website structure that work for both your users and search engines.\\n\\nFull article at the link below.",
+      "link": "https://unstoppabledomains.com/blog/categories/education/article/domains-vs-subdomains",
+      "linkText": "Detailed Guide"
+    },
+    {
+      "id": "company_2025-09-10",
+      "type": "company",
+      "date": "2024-09-10T16:00:00.000Z",
+      "title": "Preparing for ICANN 2026: Refunds for Web3 Domains Not Applying to ICANN",
+      "shortMessage": "On the horizon is the next ICANN gTLD application round",
+      "fullMessage": "At Unstoppable, we're always looking ahead to where the internet is going and how our community can shape it. One of the biggest milestones on the horizon is the next ICANN (the Internet Corporation for Assigned Names and Numbers) gTLD (generic top-level domains) application round, expected in 2026. This will be the first major expansion since 2012, when hundreds of new domain extensions were introduced.\\n\\nSecuring a gTLD through ICANN unlocks the dual power of Web2 and DNS. For our Web3 TLDs, a successful ICANN application means the domains would resolve natively in browsers (like Chrome or FireFox) while still living onchain for payments, logins, and more. It's the reverse of what we've already done by tokenizing Web2 domains (like .com) onto the blockchain to unlock Web3 functionality. ICANN participation could create a two-way bridge—bringing Web3 domains into Web2 for resolvable sites in Chrome and Bing, just as we've brought Web2 into Web3 for crypto payments, login and more.\\n\\nWe have been actively preparing for this next ICANN cycle. Together with our partners, we've been evaluating which Web3 TLDs should pursue dual recognition in both the blockchain ecosystem and the ICANN root zone.\\n\\nFull article at the link below.",
+      "link": "https://unstoppabledomains.com/blog/categories/announcements/article/web3-refunds",
+      "linkText": "Refunds for Web3 Domains"
+    },
+    {
+      "id": "company_2025-09-09",
+      "type": "company",
+      "date": "2025-09-09T19:00:00.000Z",
+      "title": "Meet .robot — The TLD for Builders, Dreamers, and Bots",
+      "shortMessage": "The .robot pre-sale is live now, with minting beginning on 0G blockchain in Q1 2026.",
+      "fullMessage": "Robots are everywhere: from drones and NPCs to automated workflows and AI agents. They live in hardware, in code, and in culture. It's a world that deserves its own identity. Enter .robot, our latest Web3-only TLD.\\n\\nBuilt with 0G Foundation, .robot is the naming layer for the robotics spectrum — from cobots and automation to humanoids and gaming bots. The future is accelerating fast: cobots growing 32% YoY by 2030, AI making robots smarter by 2025, and experts predicting humanoids will soon reshape logistics and manufacturing.\\n\\n.robot works for:\\n\\n🤖 Robotics startups & labs\\n🛠️ AI agents & tools\\n🎮 Gaming characters & bots\\n📦 Automation platforms\\n👾 Fun, personal projects\\n\\nThe best .robot names won't last. Secure high-potential domains before they're gone:\\n\\n    helper.robot\\n    dev.robot\\n    gamer.robot\\n    ai.robot\\n    delivery.robot\\n\\nThe .robot pre-sale is live now, with minting beginning on 0G blockchain in Q1 2026.",
+      "link": "https://unstoppabledomains.com/blog/categories/announcements/article/robot-tld",
+      "linkText": "Meet .robot"
+    },
+    {
+      "id": "company_2024-09-08",
+      "type": "company",
+      "date": "2024-09-08T16:00:00.000Z",
+      "title": "Coming Soon — Voices of Power",
+      "shortMessage": "The conversations that shape society are happening online, in real time, and increasingly onchain",
+      "fullMessage": "Policy debates, finance reforms, civic movements. The conversations that shape society don't just happen in hearing rooms anymore. They're happening online, in real time, and increasingly onchain.\n\nThat's why we're launching The Civic Collection, a limited drop of premium domains releasing September 15th at 9 AM ET. This drop launches alongside The Future of Money, Governance, and the Law, the Government Blockchain Association's flagship Capitol Hill event with Edge Of as sponsor. It captures the language of money, governance, and law in Web3.\n\nA few names you'll see:\n\n    vote.collect\n    law.hub\n    city.austin\n    data.wifi\n    news.podcast\n\nDrop Details\n\n    Begins: September 15th, 9 AM ET\n    Ends: September 22nd, 9 AM ET, or when all domains are sold.\n    Availability: First-come, first-served\n\nThe next chapter of governance is being written. Secure your place in the conversation.",
+      "link": "https://unstoppabledomains.com/blog/categories/announcements/article/civic-premium-drop",
+      "linkText": "Voices of Power"
+    }
+  ]
+  
