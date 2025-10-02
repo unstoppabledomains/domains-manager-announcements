@@ -1,43 +1,122 @@
 [
-    {
-      "id": "company_2025-09-12",
-      "type": "company",
-      "date": "2025-09-12T19:00:00.000Z",
-      "title": "Domain vs Subdomain: Key Differences and When to Use Each",
-      "shortMessage": "This guide breaks down everything you need to know about domains versus subdomains",
-      "fullMessage": "Building a website? You'll face one crucial decision right from the start: domain or subdomain. This choice determines how people find you, remember you, and navigate your content. Whether you're launching something new or rethinking your current setup, getting this right matters for your online success.\n\nYour domain name acts as your primary web address—your digital home base that represents everything you do online. Subdomains work differently. They create separate sections under your main domain, organizing content into distinct areas that serve specific purposes. Think of it this way: if your main site is \"yourbusiness.com,\" then \"blog.yourbusiness.com\" becomes a dedicated space that's connected but separate.\n\nWhat makes subdomains so useful? They help you structure content more clearly, target specific audiences with specialized content, and create focused keyword strategies for different parts of your site. Here's the key difference: owning your domain gives you complete control over your website, email, and brand identity. Relying only on subdomains means you're essentially renting space under someone else's domain.\n\nThis guide breaks down everything you need to know about domains versus subdomains—when to use each option, how they differ, and how to set them up properly. You'll learn to make smart decisions about your website structure that work for both your users and search engines.\\n\\nFull article at the link below.",
-      "link": "https://unstoppabledomains.com/blog/categories/education/article/domains-vs-subdomains",
-      "linkText": "Detailed Guide"
-    },
-    {
-      "id": "company_2025-09-10",
-      "type": "company",
-      "date": "2024-09-10T16:00:00.000Z",
-      "title": "Preparing for ICANN 2026: Refunds for Web3 Domains Not Applying to ICANN",
-      "shortMessage": "On the horizon is the next ICANN gTLD application round",
-      "fullMessage": "At Unstoppable, we're always looking ahead to where the internet is going and how our community can shape it. One of the biggest milestones on the horizon is the next ICANN (the Internet Corporation for Assigned Names and Numbers) gTLD (generic top-level domains) application round, expected in 2026. This will be the first major expansion since 2012, when hundreds of new domain extensions were introduced.\\n\\nSecuring a gTLD through ICANN unlocks the dual power of Web2 and DNS. For our Web3 TLDs, a successful ICANN application means the domains would resolve natively in browsers (like Chrome or FireFox) while still living onchain for payments, logins, and more. It's the reverse of what we've already done by tokenizing Web2 domains (like .com) onto the blockchain to unlock Web3 functionality. ICANN participation could create a two-way bridge—bringing Web3 domains into Web2 for resolvable sites in Chrome and Bing, just as we've brought Web2 into Web3 for crypto payments, login and more.\\n\\nWe have been actively preparing for this next ICANN cycle. Together with our partners, we've been evaluating which Web3 TLDs should pursue dual recognition in both the blockchain ecosystem and the ICANN root zone.\\n\\nFull article at the link below.",
-      "link": "https://unstoppabledomains.com/blog/categories/announcements/article/web3-refunds",
-      "linkText": "Refunds for Web3 Domains"
-    },
-    {
-      "id": "company_2025-09-09",
-      "type": "company",
-      "date": "2025-09-09T19:00:00.000Z",
-      "title": "Meet .robot — The TLD for Builders, Dreamers, and Bots",
-      "shortMessage": "The .robot pre-sale is live now, with minting beginning on 0G blockchain in Q1 2026.",
-      "fullMessage": "Robots are everywhere: from drones and NPCs to automated workflows and AI agents. They live in hardware, in code, and in culture. It's a world that deserves its own identity. Enter .robot, our latest Web3-only TLD.\\n\\nBuilt with 0G Foundation, .robot is the naming layer for the robotics spectrum — from cobots and automation to humanoids and gaming bots. The future is accelerating fast: cobots growing 32% YoY by 2030, AI making robots smarter by 2025, and experts predicting humanoids will soon reshape logistics and manufacturing.\\n\\n.robot works for:\\n\\n🤖 Robotics startups & labs\\n🛠️ AI agents & tools\\n🎮 Gaming characters & bots\\n📦 Automation platforms\\n👾 Fun, personal projects\\n\\nThe best .robot names won't last. Secure high-potential domains before they're gone:\\n\\n    helper.robot\\n    dev.robot\\n    gamer.robot\\n    ai.robot\\n    delivery.robot\\n\\nThe .robot pre-sale is live now, with minting beginning on 0G blockchain in Q1 2026.",
-      "link": "https://unstoppabledomains.com/blog/categories/announcements/article/robot-tld",
-      "linkText": "Meet .robot"
-    },
-    {
-      "id": "company_2025-09-08",
-      "type": "company",
-      "date": "2025-09-08T16:00:00.000Z",
-      "title": "Coming Soon — Voices of Power",
-      "shortMessage": "The conversations that shape society are happening online, in real time, and increasingly onchain",
-      "fullMessage": "Policy debates, finance reforms, civic movements. The conversations that shape society don't just happen in hearing rooms anymore. They're happening online, in real time, and increasingly onchain.\n\nThat's why we're launching The Civic Collection, a limited drop of premium domains releasing September 15th at 9 AM ET. This drop launches alongside The Future of Money, Governance, and the Law, the Government Blockchain Association's flagship Capitol Hill event with Edge Of as sponsor. It captures the language of money, governance, and law in Web3.\n\nA few names you'll see:\n\n    vote.collect\n    law.hub\n    city.austin\n    data.wifi\n    news.podcast\n\nDrop Details\n\n    Begins: September 15th, 9 AM ET\n    Ends: September 22nd, 9 AM ET, or when all domains are sold.\n    Availability: First-come, first-served\n\nThe next chapter of governance is being written. Secure your place in the conversation.",
-      "link": "https://unstoppabledomains.com/blog/categories/announcements/article/civic-premium-drop",
-      "linkText": "Voices of Power"
-    }
-  ]
-  
+  {
+    "id": "company_2025-10-01",
+    "type": "company",
+    "date": "2025-10-01T19:00:00.000Z",
+    "title": "Shine Together with .SuperNova",
+    "shortMessage": "A nova is a celestial event where a star suddenly becomes much brighter",
+    "fullMessage": "A nova is a celestial event where a star suddenly becomes much brighter, shining with brilliant intensity before gradually returning to its original state. It's a phenomenon that captures attention across the cosmos, marking moments of extraordinary transformation and radiant energy.\n\nIn the digital universe, we're witnessing our own nova moment with the launch of .SuperNova domains. These aren't just domain names—they're beacons for those ready to shine brighter in the Web3 space. Whether you're building the next breakthrough DeFi protocol, launching an innovative NFT collection, or creating tools that will define the future of digital interaction, .SuperNova gives you the perfect identity to match your ambition.\n\nThe .SuperNova extension represents the explosive growth and brilliant innovation happening in blockchain technology. Just as astronomical novae mark stellar evolution, .SuperNova domains mark the evolution of digital identity. They're designed for projects and individuals who don't just participate in the Web3 revolution—they lead it.\n\nFrom startups disrupting traditional finance to artists reimagining digital ownership, .SuperNova domains provide the memorable, brandable identity that helps you stand out in an increasingly crowded digital space.\\n\\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/supernova-tld",
+    "linkText": "Learn About .SuperNova"
+  },
+  {
+    "id": "company_2025-09-30",
+    "type": "company",
+    "date": "2025-09-30T19:00:00.000Z",
+    "title": "Introducing .web3 — the TLD that defines an era",
+    "shortMessage": "Every so often, something comes along that defines the space",
+    "fullMessage": "Every so often, something comes along that defines the space. And let's be honest—Web3 has been searching for that defining moment, that perfect distillation of what this movement represents. Today, we're proud to introduce .web3, the top-level domain that doesn't just participate in the decentralized web—it embodies it.\n\n.web3 isn't just another domain extension. It's the digital identity for builders, creators, and visionaries who are constructing the future of the internet. From DeFi protocols revolutionizing finance to NFT marketplaces redefining ownership, from DAOs reshaping governance to MetaVerse platforms reimagining social interaction—.web3 is where these innovations call home.\n\nThe beauty of .web3 lies in its universality within our ecosystem. It speaks to everyone building in this space, regardless of their specific focus. Whether you're developing cross-chain infrastructure, creating the next breakthrough dApp, or simply want to showcase your Web3 portfolio, .web3 provides the perfect foundation for your digital presence.\n\nThis isn't just about having a cool domain name. It's about claiming your place in the defining era of internet evolution. .web3 domains are built for the decentralized future, supporting cryptocurrency payments, serving as login credentials, and integrating seamlessly with blockchain applications.\\n\\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/web3-tld-launch",
+    "linkText": "Get Your .web3 Domain"
+  },
+  {
+    "id": "company_2025-09-26",
+    "type": "company",
+    "date": "2025-09-26T19:00:00.000Z",
+    "title": "What Is DNSSEC? The Complete Guide to Securing Your Domain",
+    "shortMessage": "Your domain's security depends on a system designed when the internet was smaller and simpler",
+    "fullMessage": "Your domain's security depends on a system designed when the internet was smaller, simpler, and more trusting. Back then, nobody imagined the sophisticated attacks we face today. DNS Security Extensions (DNSSEC) emerged as the solution to protect domain name resolution from manipulation and ensure users reach the correct websites.\n\nDNSSEC works by adding cryptographic signatures to DNS records, creating a chain of trust from your domain all the way up to the root DNS servers. Think of it as a tamper-evident seal for your domain's DNS information. When someone tries to visit your website, DNSSEC allows their browser to verify that the DNS response is authentic and hasn't been modified by attackers.\n\nWithout DNSSEC protection, cybercriminals can redirect your visitors to malicious websites that look identical to yours, stealing passwords, financial information, and personal data. They can intercept email by redirecting your MX records to their own servers. The attacks are invisible to users but devastating to businesses and individuals alike.\n\nImplementing DNSSEC isn't optional anymore—it's essential. This comprehensive guide walks you through everything you need to know about DNSSEC: how it works, why you need it, and most importantly, how to implement it correctly. Whether you're managing a small business website or a large enterprise infrastructure, understanding DNSSEC is crucial for maintaining trust with your users.\\n\\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/education/article/dnssec-guide",
+    "linkText": "Complete DNSSEC Guide"
+  },
+  {
+    "id": "company_2025-09-25",
+    "type": "company",
+    "date": "2025-09-25T19:00:00.000Z",
+    "title": "Trigger the internet with .TROLL",
+    "shortMessage": "With mindshare peaking at nearly 12% of Solana meme activity, TROLL has become a cultural phenomenon",
+    "fullMessage": "With mindshare peaking at nearly 12% of Solana meme activity, TROLL has become a cultural phenomenon that transcends traditional meme culture. What started as playful internet banter has evolved into a legitimate force in the cryptocurrency space, and now it's getting its own dedicated namespace with .TROLL domains.\n\n.TROLL isn't just about memes—though it certainly embraces them. It's about capturing the irreverent, boundary-pushing spirit that drives innovation in Web3. From satirical NFT projects that commentary on digital culture to DeFi protocols with cheeky names that challenge traditional finance, .TROLL domains provide the perfect identity for projects that aren't afraid to have fun while building the future.\n\nThe TROLL token's success on Solana demonstrates the power of community-driven projects that combine humor with serious technological innovation. .TROLL domains extend this philosophy to the domain space, offering a memorable and brandable option for projects that want to stand out through creativity and wit.\n\nWhether you're launching the next viral meme coin, creating satirical content about crypto culture, or building tools that help others navigate the often absurd world of decentralized finance, .TROLL gives you the perfect domain to match your project's personality. In a space that often takes itself too seriously, .TROLL domains remind us that innovation can be both groundbreaking and genuinely entertaining.\\n\\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/troll-tld",
+    "linkText": "Get Your .TROLL Domain"
+  },
+  {
+    "id": "company_2025-09-24",
+    "type": "company",
+    "date": "2025-09-24T19:00:00.000Z",
+    "title": "Lease-to-Own is Now Available on the Unstoppable Marketplace",
+    "shortMessage": "Lease-to-Own is a payment model that lets buyers rent a domain in monthly installments",
+    "fullMessage": "Lease-to-Own is a payment model that lets buyers rent (lease) a domain in monthly installments, with each payment building toward eventual ownership. It's designed to make premium domains accessible to more people by removing the barrier of large upfront payments.\n\nHere's how it works: instead of paying thousands of dollars upfront for a premium domain, you can secure it immediately with a smaller initial payment and then make monthly payments over an agreed period. Once you've completed all payments, the domain transfers to your ownership permanently. During the lease period, you have full usage rights—you can build websites, create email addresses, and use the domain exactly as if you owned it outright.\n\nThis payment model is particularly valuable for premium Web3 domains, which often command higher prices due to their scarcity and brandability. Entrepreneurs launching new DeFi protocols, NFT marketplaces, or blockchain startups can now secure the perfect domain name without waiting to accumulate sufficient capital or taking on unnecessary debt.\n\nFor domain investors, Lease-to-Own opens up new revenue streams by making their premium inventory accessible to a broader market. Instead of waiting for the right buyer with full payment capability, they can generate steady monthly income while ultimately achieving their desired sale price.\n\nThe Unstoppable Marketplace now supports Lease-to-Own transactions, making it easier than ever to acquire the perfect Web3 domain for your project or investment portfolio.\\n\\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/lease-to-own-marketplace",
+    "linkText": "Explore Lease-to-Own"
+  },
+  {
+    "id": "company_2025-09-23",
+    "type": "company",
+    "date": "2025-09-23T19:00:00.000Z",
+    "title": ".Anime Intends to Officially Enter the ICANN Application Process",
+    "shortMessage": ".anime plans to apply for the next ICANN gTLD round, marking a new chapter in digital identity",
+    "fullMessage": ".anime plans to apply for the next ICANN gTLD round, marking a new chapter in digital identity for one of the world's most vibrant and creative communities. This represents a significant milestone in bringing Web3 domains into the traditional DNS system while maintaining their blockchain-native capabilities.\n\nThe anime community has always been at the forefront of digital culture, from early internet forums to streaming platforms, from digital art to NFT collections. .anime domains provide the perfect identity for this passionate and creative community, whether they're independent artists, streaming platforms, merchandise creators, or fan communities building around their favorite series.\n\nBy pursuing ICANN recognition, .anime domains would gain the ability to resolve natively in traditional web browsers while retaining all their Web3 functionality. This dual capability means .anime sites could be accessed directly through Chrome, Firefox, and other browsers without requiring special extensions, while still supporting cryptocurrency payments, blockchain-based login, and decentralized hosting.\n\nThe anime industry generates over $25 billion annually and continues growing as streaming platforms expand globally. .anime domains position creators and businesses to capture this growth with memorable, brandable identities that resonate with fans worldwide. From official studio websites to fan art platforms, from merchandise stores to community forums, .anime provides the perfect namespace for this thriving digital ecosystem.\n\nThis ICANN application represents our commitment to bridging Web2 and Web3, ensuring that blockchain domains can participate fully in both the decentralized future and the traditional internet of today.\\n\\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/anime-icann-application",
+    "linkText": "Learn About .anime ICANN"
+  },
+  {
+    "id": "company_2025-09-18",
+    "type": "company",
+    "date": "2025-09-18T19:00:00.000Z",
+    "title": "DNS Propagation Explained: How Long It Takes and How to Make It Faster",
+    "shortMessage": "The time needed for DNS record changes to spread across the internet is called DNS propagation",
+    "fullMessage": "The time needed for DNS record changes to spread across the internet is called DNS propagation, and it's one of the most misunderstood aspects of domain management. When you update your DNS records—whether you're pointing your domain to a new website, changing email servers, or updating any other DNS settings—these changes don't instantly appear everywhere on the internet.\n\nDNS propagation occurs because the internet relies on a distributed network of DNS servers that cache (store) domain information to improve performance. When you make a DNS change, it starts at your authoritative DNS server and then gradually spreads to DNS servers worldwide as they refresh their cached information. This process typically takes anywhere from a few minutes to 48 hours, though most changes propagate within 24 hours.\n\nSeveral factors influence propagation speed: your DNS record's Time to Live (TTL) setting, your DNS provider's infrastructure, your registrar's configuration, and even your internet service provider's DNS servers. Understanding these factors helps you optimize your DNS setup for faster propagation when you need it most.\n\nFor businesses and developers, slow DNS propagation can mean extended downtime during migrations, delayed email delivery, or frustrated users unable to access new services. This guide provides practical strategies to minimize propagation time: setting appropriate TTL values before making changes, choosing DNS providers with robust global networks, and using tools to monitor propagation progress in real-time.\n\nWhether you're migrating a critical business website or launching a new service, understanding DNS propagation helps you plan changes effectively and minimize disruption to your users.\\n\\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/education/article/dns-propagation-guide",
+    "linkText": "DNS Propagation Guide"
+  },
+  {
+    "id": "company_2025-09-16",
+    "type": "company",
+    "date": "2025-09-16T19:00:00.000Z",
+    "title": "Unwrap your identity with .pack",
+    "shortMessage": "Unboxing moments have always been powerful, from trading cards to digital collectibles",
+    "fullMessage": "Unboxing moments have always been powerful. From trading cards to digital collectibles, from limited-edition sneakers to exclusive NFT drops, there's something magical about revealing what's inside. .pack domains capture this excitement and anticipation, providing the perfect identity for creators and platforms that specialize in curated collections and surprise reveals.\n\n.pack domains are designed for the modern digital economy where discovery and curation matter as much as the products themselves. Whether you're running a subscription box service, launching mystery NFT collections, creating digital trading card games, or building platforms that aggregate and package digital content, .pack gives you a memorable and intuitive domain that immediately communicates your value proposition.\n\nThe psychology of \"packs\" extends far beyond physical products. In the digital realm, .pack domains work perfectly for software bundles, app collections, educational course packages, digital asset portfolios, and any service that groups related items together for enhanced value. It's about creating anticipation, delivering surprise, and providing more value through thoughtful curation than customers could achieve individually.\n\nFor Web3 projects, .pack domains offer particular advantages. They're perfect for DeFi yield farming strategies that bundle multiple protocols, NFT marketplaces that offer curated collections, gaming platforms that sell loot crates or character bundles, and any blockchain project that aggregates multiple services or assets into convenient packages.\n\nIn an attention economy where standing out matters more than ever, .pack domains help you create memorable brand identities that promise excitement, value, and carefully curated experiences.\\n\\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/pack-tld-launch",
+    "linkText": "Get Your .pack Domain"
+  },
+  {
+    "id": "company_2025-09-12",
+    "type": "company",
+    "date": "2025-09-12T19:00:00.000Z",
+    "title": "Domain vs Subdomain: Key Differences and When to Use Each",
+    "shortMessage": "This guide breaks down everything you need to know about domains versus subdomains",
+    "fullMessage": "Building a website? You'll face one crucial decision right from the start: domain or subdomain. This choice determines how people find you, remember you, and navigate your content. Whether you're launching something new or rethinking your current setup, getting this right matters for your online success.\n\nYour domain name acts as your primary web address—your digital home base that represents everything you do online. Subdomains work differently. They create separate sections under your main domain, organizing content into distinct areas that serve specific purposes. Think of it this way: if your main site is \"yourbusiness.com,\" then \"blog.yourbusiness.com\" becomes a dedicated space that's connected but separate.\n\nWhat makes subdomains so useful? They help you structure content more clearly, target specific audiences with specialized content, and create focused keyword strategies for different parts of your site. Here's the key difference: owning your domain gives you complete control over your website, email, and brand identity. Relying only on subdomains means you're essentially renting space under someone else's domain.\n\nThis guide breaks down everything you need to know about domains versus subdomains—when to use each option, how they differ, and how to set them up properly. You'll learn to make smart decisions about your website structure that work for both your users and search engines.\\n\\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/education/article/domains-vs-subdomains",
+    "linkText": "Detailed Guide"
+  },
+  {
+    "id": "company_2025-09-10",
+    "type": "company",
+    "date": "2024-09-10T16:00:00.000Z",
+    "title": "Preparing for ICANN 2026: Refunds for Web3 Domains Not Applying to ICANN",
+    "shortMessage": "On the horizon is the next ICANN gTLD application round",
+    "fullMessage": "At Unstoppable, we're always looking ahead to where the internet is going and how our community can shape it. One of the biggest milestones on the horizon is the next ICANN (the Internet Corporation for Assigned Names and Numbers) gTLD (generic top-level domains) application round, expected in 2026. This will be the first major expansion since 2012, when hundreds of new domain extensions were introduced.\\n\\nSecuring a gTLD through ICANN unlocks the dual power of Web2 and DNS. For our Web3 TLDs, a successful ICANN application means the domains would resolve natively in browsers (like Chrome or FireFox) while still living onchain for payments, logins, and more. It's the reverse of what we've already done by tokenizing Web2 domains (like .com) onto the blockchain to unlock Web3 functionality. ICANN participation could create a two-way bridge—bringing Web3 domains into Web2 for resolvable sites in Chrome and Bing, just as we've brought Web2 into Web3 for crypto payments, login and more.\\n\\nWe have been actively preparing for this next ICANN cycle. Together with our partners, we've been evaluating which Web3 TLDs should pursue dual recognition in both the blockchain ecosystem and the ICANN root zone.\\n\\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/web3-refunds",
+    "linkText": "Refunds for Web3 Domains"
+  },
+  {
+    "id": "company_2025-09-09",
+    "type": "company",
+    "date": "2025-09-09T19:00:00.000Z",
+    "title": "Meet .robot — The TLD for Builders, Dreamers, and Bots",
+    "shortMessage": "The .robot pre-sale is live now, with minting beginning on 0G blockchain in Q1 2026.",
+    "fullMessage": "Robots are everywhere: from drones and NPCs to automated workflows and AI agents. They live in hardware, in code, and in culture. It's a world that deserves its own identity. Enter .robot, our latest Web3-only TLD.\\n\\nBuilt with 0G Foundation, .robot is the naming layer for the robotics spectrum — from cobots and automation to humanoids and gaming bots. The future is accelerating fast: cobots growing 32% YoY by 2030, AI making robots smarter by 2025, and experts predicting humanoids will soon reshape logistics and manufacturing.\\n\\n.robot works for:\\n\\n🤖 Robotics startups & labs\\n🛠️ AI agents & tools\\n🎮 Gaming characters & bots\\n📦 Automation platforms\\n👾 Fun, personal projects\\n\\nThe best .robot names won't last. Secure high-potential domains before they're gone:\\n\\n    helper.robot\\n    dev.robot\\n    gamer.robot\\n    ai.robot\\n    delivery.robot\\n\\nThe .robot pre-sale is live now, with minting beginning on 0G blockchain in Q1 2026.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/robot-tld",
+    "linkText": "Meet .robot"
+  },
+  {
+    "id": "company_2025-09-08",
+    "type": "company",
+    "date": "2025-09-08T16:00:00.000Z",
+    "title": "Coming Soon — Voices of Power",
+    "shortMessage": "The conversations that shape society are happening online, in real time, and increasingly onchain",
+    "fullMessage": "Policy debates, finance reforms, civic movements. The conversations that shape society don't just happen in hearing rooms anymore. They're happening online, in real time, and increasingly onchain.\n\nThat's why we're launching The Civic Collection, a limited drop of premium domains releasing September 15th at 9 AM ET. This drop launches alongside The Future of Money, Governance, and the Law, the Government Blockchain Association's flagship Capitol Hill event with Edge Of as sponsor. It captures the language of money, governance, and law in Web3.\n\nA few names you'll see:\n\n    vote.collect\n    law.hub\n    city.austin\n    data.wifi\n    news.podcast\n\nDrop Details\n\n    Begins: September 15th, 9 AM ET\n    Ends: September 22nd, 9 AM ET, or when all domains are sold.\n    Availability: First-come, first-served\n\nThe next chapter of governance is being written. Secure your place in the conversation.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/civic-premium-drop",
+    "linkText": "Voices of Power"
+  }
+]
