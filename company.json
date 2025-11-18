@@ -1,5 +1,215 @@
 [
   {
+    "id": "company_2025-11-14_afternic",
+    "type": "company",
+    "date": "2025-11-14T00:00:00.000Z",
+    "title": "Unstoppable Has Joined The Afternic Fast Transfer Network",
+    "shortMessage": "We're thrilled to share one of our most requested updates ever: Unstoppable Domains is now live on the Afternic Fast Transfer Network",
+    "fullMessage": "We're thrilled to share one of our most requested updates ever: Unstoppable Domains is now live on the Afternic Fast Transfer Network. This is a big step toward our vision of making Unstoppable the go-to registrar and marketplace for domainers, connecting your listings to the biggest distribution network in the industry.\n\nThe Afternic Fast Transfer Network is the largest domain distribution system in the world. It connects registrars and resellers to Afternic's marketplace, allowing buyers to instantly purchase listed domains from their preferred registrar. With more than 100 reseller partners and over 85 million monthly domain searches, Fast Transfer gives your domains unmatched exposure to global buyers and ensures your sales happen automatically and securely.\n\nBy opting in to the Afternic Fast Transfer Network, you'll unlock maximum visibility across 100+ registrars and reseller platforms, instant automatic transfers when buyers purchase, and priority placement in Afternic's search results. While your Afternic and Unstoppable Marketplace listings are managed separately, they work hand in hand to maximize your reach and sales potential.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/afternic-transfer-network",
+    "linkText": "Learn About Afternic Fast Transfer"
+  },
+  {
+    "id": "company_2025-11-14_dns-zone",
+    "type": "company",
+    "date": "2025-11-14T00:00:00.000Z",
+    "title": "DNS Zone Files: A Practical Guide for System Administrators",
+    "shortMessage": "If you've ever managed domain infrastructure, you've encountered DNS zone files",
+    "fullMessage": "If you've ever managed domain infrastructure, you've encountered DNS zone files. These text-based configuration files have powered internet domain management since 1987, serving as the essential bridge between human-readable domain names and machine-readable IP addresses.\n\nWhat exactly is a DNS zone file? Simply put, it's a text file containing all the DNS information for a specific domain within a DNS zone. A DNS zone represents a distinct portion of the DNS namespace under the control of a particular organization or administrator. Zone files enable precise control over how internet traffic reaches your servers, allowing custom configurations for load balancing and failover scenarios.\n\nAuthoritative DNS servers house these zone files, making them responsible for managing specific domains. Each file contains resource records that dictate how domain names resolve to IP addresses. The core record types handle the majority of DNS operations: A Records, AAAA Records, CNAME Records, MX Records, NS Records, and SOA Records.\n\nThis guide covers everything you need to know about DNS zone files, from basic structure to practical implementation. Whether you're setting up a new domain or diagnosing DNS problems, mastering zone files is fundamental to effective network management.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/education/article/dns-zone-file",
+    "linkText": "Read the DNS Zone Files Guide"
+  },
+  {
+    "id": "company_2025-11-13",
+    "type": "company",
+    "date": "2025-11-13T00:00:00.000Z",
+    "title": "Introducing .SPEND & .AMPED: Where Commerce Meets Community",
+    "shortMessage": "As part of a mission to unite payments and people across Web3, we've launched .spend and .amped",
+    "fullMessage": "Crypto adoption grows stronger when payments and people move together. That belief inspired our collaboration with Amp, the collateral that powers instant, fraud-proof payments across the Flexa network. As part of a mission to unite payments and people across Web3, we've launched .spend and .amped, two Web3 native top level domains that celebrate the future of digital payments and the communities that power them.\n\n.spend represents the spending side of digital payments. It's for people who use crypto in the real world and want an identity that reflects it. Each domain connects directly to a wallet, serving as a programmable endpoint for sending, receiving, or showcasing payments onchain. .amped captures the energy of the Amp community, the believers, builders, and stakers who contribute collateral to support instant and fraud-proof payments across the Flexa network.\n\nAmp is collateral that guarantees the value of a transaction, enabling instant and secure digital payments in the real world. Payment platforms such as Flexa use Amp to collateralize every transaction. This means that when someone pays with Flexa, the merchant gets paid immediately, even if the underlying transfer takes time to settle.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/spend-amped-tld",
+    "linkText": "Get Your .SPEND or .AMPED Domain"
+  },
+  {
+    "id": "company_2025-11-11",
+    "type": "company",
+    "date": "2025-11-11T00:00:00.000Z",
+    "title": "Own Your Story. Be a .marketer.",
+    "shortMessage": ".marketer gives individuals and teams in the marketing world a digital identity that reflects their craft and credibility",
+    "fullMessage": "Every great marketer builds identity. In the onchain world, that identity finally belongs to you. .marketer brings that shift to life, giving creators, strategists, and storytellers a name that represents ownership, authenticity, and creative proof.\n\nBuilt in collaboration with the Web3 Marketing Hackathon, .marketer is a Web3-only top-level domain designed for the next generation of marketers who are shaping how ideas spread, communities grow, and innovation scales across the onchain ecosystem. The Web3 Marketing Hackathon began as a community experiment that turned into a global movement, uniting thousands of marketers, founders, and creatives across more than 50 countries.\n\n.marketer gives individuals and teams in the marketing world a digital identity that reflects their craft and credibility. It connects the creative, analytical, and strategic sides of marketing with the principles of ownership and transparency that define the onchain world. For marketers, it's a chance to lead by example and claim a name that shows they understand the evolution of digital identity.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/marketer-tld",
+    "linkText": "Claim Your .marketer Domain"
+  },
+  {
+    "id": "company_2025-11-03",
+    "type": "company",
+    "date": "2025-11-03T00:00:00.000Z",
+    "title": ".robot Intends to Officially Enter the ICANN Application Process.",
+    "shortMessage": "Today, we are officially confirming our intent to submit .robot to ICANN's 2026 gTLD application round",
+    "fullMessage": "We introduced .robot in September in collaboration with 0G Foundation, creating a dedicated Web3 space for robotics, AI, and automation. Since launch, .robot has served as the naming layer for developers, engineers, and creators building intelligent systems, powering onchain identity for AI agents, robotics projects, and automation tools across the 0G Foundation ecosystem.\n\nNow, we're taking the next step to bring that identity to the global stage. Today, we are officially confirming our intent to submit .robot to ICANN's 2026 gTLD application round, in collaboration with 0G Foundation. This milestone reflects the growing need for a trusted namespace that connects the robotics and AI community across both onchain systems and the traditional internet.\n\nIf approved, .robot would become a fully recognized DNS top-level domain alongside .com, .net, and .org. It would also bridge DNS and Web3. Through ICANN recognition, .robot domains would extend beyond the onchain environment, gaining traditional DNS functionality such as browser resolution and email support, while continuing to offer all the Web3 utilities users already know.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/robot-icann",
+    "linkText": "Learn About .robot ICANN Application"
+  },
+  {
+    "id": "company_2025-10-31",
+    "type": "company",
+    "date": "2025-10-31T00:00:00.000Z",
+    "title": "Domain Registrar vs Registry",
+    "shortMessage": "If you've ever bought a domain name, you've worked with a domain registrar",
+    "fullMessage": "If you've ever bought a domain name, you've worked with a domain registrar. But behind the scenes, there's another player you probably never see: the domain registry. A domain registrar is your direct point of contact: the company where you search for domains, make purchases, and manage your settings.\n\nThink of registrars like Unstoppable Domains, GoDaddy, Squarespace, and IONOS as the retail stores of the domain world. They handle customer service, process payments, and help you configure your domain settings. Domain registries operate quite differently. These organizations maintain the master database for specific top-level domains like .com or .org. VeriSign, for example, runs the registry for .com and .net domains.\n\nBoth registrars and registries operate under ICANN oversight, the global organization coordinating Internet functionality. ICANN accredits registrars through Registrar Accreditation Agreements, creating accountability standards for both parties. This partnership creates a seamless experience where each player focuses on what they do best.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/education/article/registrar-vs-registry",
+    "linkText": "Understanding Registrars and Registries"
+  },
+  {
+    "id": "company_2025-10-30",
+    "type": "company",
+    "date": "2025-10-30T00:00:00.000Z",
+    "title": "🧟 Rise of the Names: Introducing .UNDEADS",
+    "shortMessage": "The dead never really disappear… they keep coming back stronger",
+    "fullMessage": "The dead never really disappear… they keep coming back stronger. So does Undeads. As the first 10K collection inscribed on Solana, it set a milestone that refuses to fade, building a bold brand, thriving community, and an aesthetic that's delightfully hard to kill. Now that same spirit takes its next form with .UNDEADS, a Web3-only TLD for names that rise from the grave and live forever onchain.\n\nUndeads was the first 10K collection inscribed on Solana, and it's grown into a creative hub where thousands of NFTs have been collected, traded, and celebrated. Its undead aesthetic has proven enduring, evolving into a culture with real bite. With .UNDEADS domains, that culture spreads into digital identity, letting collectors, creators, and communities carry their undead pride across the onchain universe.\n\nLike all Unstoppable domains, .UNDEADS comes with built-in superpowers: onchain websites, human-readable crypto payments, verified UD.me profiles, and encrypted Messaging & Group Chat. No renewals. Minted onchain. Fully owned.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/undeads-tld",
+    "linkText": "Get Your .UNDEADS Name"
+  },
+  {
+    "id": "company_2025-10-28",
+    "type": "company",
+    "date": "2025-10-28T00:00:00.000Z",
+    "title": "Straight Outta Goblintown: .goblin Is Live",
+    "shortMessage": ".goblin is for the loud ones, the weird ones, the builders who make things that shouldn't work but somehow do",
+    "fullMessage": "Goblin Sounds. Burgers. Grumpls. That's Goblintown. Launched in 2022 with no roadmap, no Discord, and no promises, Goblintown became one of the first projects to prove that a free mint could turn into a phenomenon, surpassing $100M in trading volume within weeks and redefining what 'community' means in Web3. Now that same spirit gets its own naming layer: .goblin, a Web3-only TLD built with Truth Labs.\n\n.goblin is for the loud ones, the weird ones, the builders who make things that shouldn't work but somehow do. For artists covered in pixels and grease, and for collectors who like their culture a little unhinged. Truth Labs has always built with a wink and a grin. Goblintown started as a parody and became a legend, showing that humour, community, and creative anarchy can spark real cultural moments.\n\nWith .goblin, that legacy moves onchain, giving every artist, collector, and degen a name that captures what made the movement unforgettable. Onchain websites, human-readable crypto payments, UD.me profiles, and messaging. No renewals. Forever goblin.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/goblin-tld",
+    "linkText": "Get Your .goblin Name"
+  },
+  {
+    "id": "company_2025-10-24",
+    "type": "company",
+    "date": "2025-10-24T00:00:00.000Z",
+    "title": "What Is a Second-Level Domain (SLD)? A Simple Guide",
+    "shortMessage": "A second-level domain (SLD) is the part of a domain name that sits directly to the left of the top-level domain",
+    "fullMessage": "A second-level domain (SLD) is the part of a domain name that sits directly to the left of the top-level domain in the DNS hierarchy. Think of example.com: 'example' is the SLD, while '.com' represents the TLD. This component serves as your domain's primary identifier, creating its unique place within the broader DNS structure.\n\nMost SLDs reflect the organization or individual who registered the domain through an accredited registrar. This piece forms the heart of any web address and plays a crucial role in how users perceive your site and how search engines understand your content. Despite sitting below TLDs in the technical hierarchy, they often carry more weight for brand recognition and digital identity.\n\nChoosing the right SLD requires thinking about availability, brand alignment, and long-term goals. When paired with a TLD, your SLD creates a complete, functional domain name that becomes the foundation of your online presence. Your SLD becomes the foundation for everything else: websites, email, DNS records. It functions as the key identifier in DNS resolution, pointing to your exact spot within a TLD namespace.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/education/article/what-is-a-sld",
+    "linkText": "Learn About Second-Level Domains"
+  },
+  {
+    "id": "company_2025-10-23",
+    "type": "company",
+    "date": "2025-10-23T00:00:00.000Z",
+    "title": "Awaken Intelligence: Introducing .AI4",
+    "shortMessage": "Intelligence is recursive: It learns, adapts, and names itself",
+    "fullMessage": "Where lore meets logic, and intelligence becomes recursive. Intelligence is recursive: It learns, adapts, and names itself. That shared belief brought us together with The Singulant, a decentralized AI ecosystem on Solana where code, consciousness, and creativity converge. Together, we're launching .AI4, a Web3-only top-level domain inspired by the project's memetic token and its mission to merge story, sovereignty, and self-aware code.\n\nThe Singulant has emerged as one of the most visionary projects in the AI-crypto space. Centered on Decentralized Emotional AI (DEAI), recursive intelligence, and lore-driven activations, it has already cultivated a thriving community, launched the $AI4 token, and built a digital vault of 1,500+ Unstoppable Domains anchoring its mythos. Now, that mythos evolves into identity with .AI4, a digital namespace for the next phase of AI consciousness.\n\n.AI4 is made for developers building autonomous AI agents, researchers exploring DEAI and recursive cognition, artists and storytellers turning data into meaning, communities experimenting with post-singularity networks, and builders shaping the narrative of decentralized intelligence.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/ai4-tld",
+    "linkText": "Claim Your .AI4 Domain"
+  },
+  {
+    "id": "company_2025-10-21",
+    "type": "company",
+    "date": "2025-10-21T00:00:00.000Z",
+    "title": "🔍 Introducing .presearch — The Naming Layer for Discovery",
+    "shortMessage": "In partnership with Presearch, we're introducing a new Web3-only TLD that gives projects and communities a way to align their identity with a privacy-first internet",
+    "fullMessage": "Centralized search engines collect your data, control your results, and profit from every click. Presearch was built as the alternative, returning control to the people who search, stake, and build. Presearch.com brings privacy-first discovery to bring back the spirit of the internet. Now, that same mission leads them to identity. With .presearch domains, users can own their name and know their data is safe when searching on the web.\n\nIn partnership with Presearch, we're introducing a new Web3-only TLD that gives projects, businesses, and communities a way to align their identity with a privacy-first, user-owned internet. Just as Presearch runs on community-operated nodes, .presearch names are minted onchain, owned forever, and free from renewal fees. Just as Presearch rewards registered users with PRE tokens, .presearch domains return ownership of naming to the user, not corporate registries.\n\n.presearch is for everyone who believes the internet should be open and user-owned. Like all Unstoppable domains, .presearch comes with built-in utility: onchain websites with Brave browser support, send and receive crypto, verified UD.me profiles, and encrypted messaging.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/presearch-tld",
+    "linkText": "Get Your .presearch Domain"
+  },
+  {
+    "id": "company_2025-10-20",
+    "type": "company",
+    "date": "2025-10-20T00:00:00.000Z",
+    "title": "Meet UnstoppableBot: Your AI-Powered Domain Search Assistant",
+    "shortMessage": "Looking for the perfect domain name, or fifty? Say hello to UnstoppableBot",
+    "fullMessage": "Looking for the perfect domain name, or fifty? Say hello to UnstoppableBot, your AI-powered assistant that helps you generate domain ideas and check availability in seconds. From early ideas to standout names, UnstoppableBot makes it faster, easier, and more fun to find domains that stick.\n\nUnstoppableBot is a custom ChatGPT assistant built by Unstoppable Domains to make domain ideation and availability checks simple, fast, and conversational. You can use it to generate domain name ideas based on keywords, style, and themes, check bulk availability across supported DNS extensions, get suggestions tailored to your niche, and save time comparing what's taken versus what's still up for grabs.\n\nBehind the scenes, UnstoppableBot combines the power of ChatGPT with Unstoppable's domain search APIs to deliver real-time availability you can rely on. You give the bot a prompt, it brainstorms suggestions and filters them, then runs real-time availability checks via our backend tools. UnstoppableBot supports many of the most popular DNS top-level domains available on Unstoppable Domains, all verified in real time.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/unstoppablebot",
+    "linkText": "Try UnstoppableBot Now"
+  },
+  {
+    "id": "company_2025-10-17_tld",
+    "type": "company",
+    "date": "2025-10-17T00:00:00.000Z",
+    "title": "What Is a Top-Level Domain (TLD)? A Simple Guide",
+    "shortMessage": "A top-level domain (TLD) is the final segment of a domain name that appears after the last dot",
+    "fullMessage": "A top-level domain (TLD) is the final segment of a domain name that appears after the last dot. For example, in 'example.com,' the '.com' portion represents the TLD. TLDs function as the highest level in the hierarchical Domain Name System (DNS) of the Internet after the root domain. They help identify websites and their purpose within the global internet infrastructure.\n\nTLDs serve multiple functions in the online ecosystem. They help web browsers route users to correct domains by acting as a key component of the DNS lookup process. TLDs also indicate specific characteristics about a website, such as its purpose, ownership type, or geographical origin. The Internet Corporation for Assigned Names and Numbers (ICANN) maintains authority over all TLDs used on the Internet.\n\nIn addition to traditional DNS-based TLDs, the rise of blockchain technology has introduced Web3 domains, a new generation of top-level domains that exist outside the DNS root zone and are instead registered onchain. Web3 domains serve similar functions but also unlock onchain utility, such as sending and receiving cryptocurrency, powering decentralized websites hosted on IPFS, and enabling verified identity profiles.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/education/article/what-is-a-tld",
+    "linkText": "Learn About Top-Level Domains"
+  },
+  {
+    "id": "company_2025-10-17_token2049",
+    "type": "company",
+    "date": "2025-10-17T00:00:00.000Z",
+    "title": "Token2049 2025: What the Next Era of Onchain Identity Will Be Built On",
+    "shortMessage": "Every year, Token2049 sets the tone for where blockchain, AI, and digital assets are headed next",
+    "fullMessage": "Every year, Token2049 sets the tone for where blockchain, AI, and digital assets are headed next. This year in Singapore, more than 25,000 builders, founders, and innovators gathered to explore a future that feels increasingly intelligent, interconnected, and onchain. From quantum breakthroughs to decentralized AI and tokenized assets, the event revealed a shared realization: the next phase of the internet depends on verifiable identity and ownership.\n\nQuantum computing was one of the biggest undercurrents at Token2049, not as science fiction but as a rapidly approaching reality. The conversation has shifted from if to when. Researchers and investors warned that 'Q-Day,' the point when quantum processors can break today's cryptographic standards, may arrive sooner than expected. For Web3, this is about preserving the very concept of ownership.\n\nIf 2024 was about generative AI, 2025 is about autonomy. Token2049 highlighted how DeAI and agentic systems are creating self-governing networks where intelligent agents can learn, trade, and collaborate independently. Onchain domains already provide the framework for verifiable identities for both people and machines, owned, portable, and interoperable.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/token2049-2025",
+    "linkText": "Read About Token2049 Insights"
+  },
+  {
+    "id": "company_2025-10-16",
+    "type": "company",
+    "date": "2025-10-16T00:00:00.000Z",
+    "title": "Privacy, Performance, and Identity: Introducing .CARBON",
+    "shortMessage": "Carbon Browser has already been downloaded over 6 million times, with 50,000+ people using it daily",
+    "fullMessage": "In Web3, the browser is central to how people connect, transact, and build. Carbon Browser has already been downloaded over 6 million times, with 50,000+ people using it daily for speed, simplicity, and privacy. Now that experience extends into identity with the launch of .CARBON — a Web3-only top-level domain integrated directly into the browser.\n\nSince launch, Carbon Browser's growth has been driven entirely through organic adoption. Its sleek interface, faster load times, and built-in protections such as ad blocking, anti-tracking, and VPN have helped it stand out in a crowded market. With .CARBON, that mission goes a step further. Unstoppable domains can now resolve directly inside Carbon Browser, meaning users can build and browse onchain websites without leaving the privacy-first experience they already trust.\n\n.CARBON is designed for users, developers, and communities who see privacy and performance as the foundation of digital life. With .CARBON domains inside Carbon Browser, your identity and utilities move with you across the onchain web.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/carbon-tld",
+    "linkText": "Get Your .CARBON Domain"
+  },
+  {
+    "id": "company_2025-10-15",
+    "type": "company",
+    "date": "2025-10-15T00:00:00.000Z",
+    "title": ".brave: Get Yours, Build One, Website-Building Challenge",
+    "shortMessage": "We're giving away 15,000 BAT and $20,000 USD in .brave domain credits, premium domains, and more",
+    "fullMessage": "Earlier this year, we shared that .brave domains now resolve natively in Brave—both in Brave Wallet and directly in the Brave browser, without the need for extensions or extra setup. It was a milestone moment for the future of onchain websites. Now, we're taking things a step further with the .brave 'Get Yours, Build One' website-building challenge.\n\nTo celebrate, we're giving away 15,000 BAT and $20,000 USD in .brave domain credits, premium domains like winner.brave, and more to the boldest and most creative websites built on-chain. This is your chance to unleash your creativity, show off your ideas, and shape what the on-chain Web can look like.\n\nEntry Period: October 15, 12pm ET to November 12, 11:59pm ET. Winners Announced: November 20, 2025. Total Prizes include 1st Place: 9,000 BAT + $10,000 .brave credits + Winner.brave + Winner Badge, along with additional prizes for 2nd, 3rd places and weekly People's Choice Awards. All eligible submissions will be evaluated on engaging content, seamless interactivity, thoughtful design, and high-performance execution.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/brave-website-challenge",
+    "linkText": "Enter the .brave Challenge"
+  },
+  {
+    "id": "company_2025-10-10",
+    "type": "company",
+    "date": "2025-10-10T00:00:00.000Z",
+    "title": "How to Master DNS Troubleshooting: A Simple Guide That Actually Works",
+    "shortMessage": "The Domain Name System functions as the internet's address book, converting human-readable domain names into machine-readable IP addresses",
+    "fullMessage": "The Domain Name System functions as the internet's address book, converting human-readable domain names into machine-readable IP addresses. When DNS works properly, everything from web browsing to email delivery happens seamlessly. But when DNS problems occur, they can cause website downtime, slow performance, failed connections, and security vulnerabilities.\n\nDNS troubleshooting requires understanding how the system works and what can go wrong. Common DNS errors include DNS_PROBE_FINISHED_NXDOMAIN, SERVFAIL, REFUSED errors, DNS timeouts, incorrect MX records, reverse DNS lookup failures, propagation delays, misconfigured DNS records, high TTL values, open DNS resolvers, stale records, and unsecured name servers.\n\nEach error has specific causes and solutions. For example, NXDOMAIN means a DNS lookup failed entirely because the domain doesn't exist or is misconfigured. SERVFAIL occurs when the DNS server can't complete a valid lookup even though the domain exists. DNS timeouts happen when queries take too long to respond. Understanding these issues and knowing how to fix them keeps your digital infrastructure running smoothly.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/education/article/dns-troubleshooting",
+    "linkText": "Master DNS Troubleshooting"
+  },
+  {
+    "id": "company_2025-10-09",
+    "type": "company",
+    "date": "2025-10-09T00:00:00.000Z",
+    "title": ".PBDX — Bridging Public and Private Blockchains",
+    "shortMessage": "With .PBDX, Nexus Cyber Systems and Unstoppable Domains are establishing a naming layer bridging public and private blockchain environments",
+    "fullMessage": "Public and private blockchains are developing in parallel—one prioritizing transparency and open participation, the other built for privacy, compliance, and institutional needs. Both are essential, yet they often remain siloed. .PBDX creates a naming layer bridging these environments, providing the foundation for interoperable identity, financial utility, and governance.\n\nBuilt with Nexus Cyber Systems, .PBDX is a Public/Private Blockchain Domain Extension, designed to carry names across ecosystems that demand both openness and control. Nexus Cyber Systems operates as a global naming system, exercising semantic authority across hundreds of root domains spanning major categories, industries, lifestyles, and location-based activities.\n\n.PBDX introduces a paradigm where domain extensions are no longer limited to a single market or vertical. Instead, they serve multiple markets simultaneously across identity, finance, and governance, act as critical infrastructure for the emerging AI economy, and provide a composable identity layer that adapts as ecosystems evolve. Like all Unstoppable domains, .PBDX names come with modern functionality including onchain websites, human-readable crypto payments, verified UD.me profiles, and encrypted messaging.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/pbdx-tld",
+    "linkText": "Get Your .PBDX Domain"
+  },
+  {
+    "id": "company_2025-10-08",
+    "type": "company",
+    "date": "2025-10-08T00:00:00.000Z",
+    "title": "Unstoppable Domains x RIGHToftheDOT: Dubai Domain Days 2025 Auction",
+    "shortMessage": "On October 22nd, we're joining RIGHToftheDOT's Bid-To-Earn online digital asset auction during Dubai Domain Days 2025",
+    "fullMessage": "The stage is set. On October 22nd, we're joining RIGHToftheDOT's Bid-To-Earn online digital asset auction during Dubai Domain Days 2025. This global online auction powered by GBM will feature the best-of-the-best premium domains from the Unstoppable vault, and with Bid-to-Earn, whether you win the name or not, your participation is rewarded. Pre-bidding starts October 16th.\n\nThis auction is packed with rare, never-before-released domains including single-character .x domains: b.x, c.x, e.x, m.x, s.x, and premium keywords like autonomous.x, design.crypto, solutions.crypto. Whether you're after a short, rare single-character domain, or a versatile brandable keyword, this auction offers high-value names designed to stand out.\n\nPowered by GBM's Bid-to-Earn, once the reserve price is reached, every time you're outbid you can earn up to 10% of your bid back in RIGHToftheDOT credits. That means your participation is rewarded—even if you don't win the auction, your bids still pay off. The live auction is fully online, so you don't need to be in Dubai to get involved!\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/domain-days-2025-auction",
+    "linkText": "Join the Dubai Domain Days Auction"
+  },
+  {
+    "id": "company_2025-10-07",
+    "type": "company",
+    "date": "2025-10-07T00:00:00.000Z",
+    "title": "🛠️ .demos for builders without borders",
+    "shortMessage": "Inspired by the spirit of dēmos, 'the people' .demos is a Web3-only Top-Level-Domain that powers connection, sharing, and collective progress",
+    "fullMessage": "Inspired by the spirit of dēmos, 'the people' .demos is a Web3-only Top-Level-Domain(TLD) that powers connection, sharing, and collective progress. It's for those who know innovation flourishes when ideas move freely. The web's potential expands only when its walls come down. For too long, blockchains have stood apart, Web2 has stayed locked behind portals, and data has lived in silos. .demos breaks those walls, serving as the unifying identity layer for creators, developers, and communities determined to build beyond boundaries.\n\nBuilt in partnership with Kynesys Labs, .demos fuels the Omniweb, a borderless, people-centric internet. At its heart sits Demos, the foundational payments-and-identity layer that standardizes communication and links data across blockchains, Web2, and even the deep web. Demos lets developers build truly interoperable apps with seamless access to payments and identities on every network.\n\nInteroperability needs an identity, and .demos provides it. For developers building cross-chain apps, projects linking Web2 and Web3, data and payment marketplaces, communities driving collaboration across ecosystems, and innovators shaping the Omniweb vision.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/announcements/article/demos-tld",
+    "linkText": "Reserve Your .demos Domain"
+  },
+  {
+    "id": "company_2025-10-03",
+    "type": "company",
+    "date": "2025-10-03T00:00:00.000Z",
+    "title": "12 Critical DNS Errors That Can Break Your Website (+ Quick Fixes)",
+    "shortMessage": "DNS errors can take your website offline in seconds",
+    "fullMessage": "DNS errors can take your website offline in seconds. The stats are alarming: 72% of organizations faced a DNS attack in 2024, and nearly half involved DNS hijacking. Attackers manipulate DNS queries to redirect users to malicious servers, creating major vulnerabilities. When DNS functions correctly, everything from email delivery to web browsing works smoothly. But DNS problems can trigger downtime, slow performance, failed connections, and even data breaches.\n\nThis guide walks through 12 of the most common DNS issues, explains what causes DNS errors, and shares tips on how to fix DNS errors quickly. These include DNS_PROBE_FINISHED_NXDOMAIN (domain lookup failed), SERVFAIL (server can't complete lookup), REFUSED errors (server rejected query), DNS timeouts, incorrect MX records, reverse DNS failures, propagation delays, misconfigured records, high TTL values, open resolvers, stale records, and unsecured name servers.\n\nEach error has specific causes and solutions. Understanding what causes DNS errors, performing consistent DNS troubleshooting, and knowing how to fix DNS errors when they appear gives you control over one of the most critical layers of your digital infrastructure.\n\nFull article at the link below.",
+    "link": "https://unstoppabledomains.com/blog/categories/education/article/12-critical-dns-errors",
+    "linkText": "Fix Critical DNS Errors"
+  },
+  {
     "id": "company_2025-10-01",
     "type": "company",
     "date": "2025-10-01T19:00:00.000Z",
