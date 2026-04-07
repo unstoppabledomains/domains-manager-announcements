@@ -1,5 +1,15 @@
 [
   {
+    "id": "company_2026-04-07_mobile-sunset",
+    "type": "company",
+    "date": "2026-04-07T00:00:00.000Z",
+    "title": "Important: Unstoppable Domains Mobile App Is Sunsetting",
+    "shortMessage": "The mobile app will be discontinued on June 1, 2026. Everything you need is on the website.",
+    "fullMessage": "We're reaching out to let you know that the Unstoppable Domains mobile app will be discontinued on June 1, 2026. After this date, the mobile app will no longer be available for download or use.\\n\\nEverything You Need Is on the Website\\n\\nAll features and functionality currently available in the mobile app are fully accessible through our website. You can continue to manage your domains, update records, and access all services at unstoppabledomains.com.\\n\\nNo action is required on your part. Your domains, records, and account remain exactly as they are. Simply visit the website whenever you need to manage your domains.\\n\\nWhy Are We Making This Change?\\n\\nWe are consolidating our platform experience to provide you with a more streamlined and feature-rich service. By focusing on our web platform, we can deliver updates and improvements faster.\\n\\nIf you have any questions, please don't hesitate to contact us at support@unstoppabledomains.com.\\n\\nThank you for being part of the Unstoppable Domains community.",
+    "link": "https://unstoppabledomains.com",
+    "linkText": "Visit Unstoppable Domains"
+  },
+  {
     "id": "company_2025-11-14_afternic",
     "type": "company",
     "date": "2025-11-14T00:00:00.000Z",
