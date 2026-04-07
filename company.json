@@ -1,5 +1,15 @@
 [
   {
+    "id": "company_2026-04-07_mobile-sunset",
+    "type": "company",
+    "date": "2026-04-07T00:00:00.000Z",
+    "title": "Important: Unstoppable Domains Mobile App Sunset",
+    "shortMessage": "The UD mobile app is being discontinued. Manage your domains at unstoppabledomains.com.",
+    "fullMessage": "The Unstoppable Domains mobile app will be discontinued on June 1, 2026. We're consolidating our platform to provide the best experience through our website at unstoppabledomains.com.\\n\\nAll features available in the mobile app — including domain management, profile editing, and crypto payments — are fully supported on our website.\\n\\nWhat you need to do:\\n• Visit unstoppabledomains.com to continue managing your domains\\n• Your domains and wallet connections remain safe and unaffected\\n• No action is required to keep your domains — they are yours forever\\n\\nWe appreciate your support as a mobile app user and look forward to continuing to serve you through our web platform.",
+    "link": "https://unstoppabledomains.com",
+    "linkText": "Go to Unstoppable Domains"
+  },
+  {
     "id": "company_2025-11-14_afternic",
     "type": "company",
     "date": "2025-11-14T00:00:00.000Z",
