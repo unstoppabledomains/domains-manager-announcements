@@ -1,5 +1,15 @@
 [
   {
+    "id": "company_2026-04-15_new-things",
+    "type": "company",
+    "date": "2026-04-15T00:00:00.000Z",
+    "title": "New Things Coming: A Preview of What's Next",
+    "shortMessage": "Exciting updates are on the way. Here's a sneak peek at the new and upcoming features rolling out soon.",
+    "fullMessage": "We've been hard at work on a range of new features and improvements coming to Unstoppable Domains. From fresh TLDs to enhanced tools and a smoother experience across the app and website, there's a lot to look forward to.\n\nStay tuned for more details in the coming weeks as we roll out each new thing. We can't wait to share them with you.\n\nThis is a preview announcement to keep you in the loop on everything that's new and upcoming.",
+    "link": "https://unstoppabledomains.com/blog",
+    "linkText": "Learn More"
+  },
+  {
     "id": "company_2025-11-14_afternic",
     "type": "company",
     "date": "2025-11-14T00:00:00.000Z",
